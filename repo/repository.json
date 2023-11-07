@@ -259,7 +259,7 @@
         }
       },
       {
-        "version": "9.4.0",
+        "version": "9.4.1",
         "date": "2023-10-16",
         "artifacts": [
           {
@@ -276,7 +276,7 @@
           }
         ],
         "manifest": {
-          "version-constraint": "9.4.0",
+          "version-constraint": "9.4.0 - 9.4.99",
           "plugins": [
             {
               "name": "request-handler",
