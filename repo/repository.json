@@ -271,7 +271,8 @@
             "sig": "SfYkFEkpqNfytOeGYNTSB0VD1sNLvTFQR9oCRv+e2y6GzawaZHBGo+9nKrZJ/4MUDVxQLfOiyaEJyQOI8Y+L7A=="
           },
           {
-            "url": "https://github.com/pgjdbc/pgjdbc/releases/download/REL42.6.0/postgresql-42.6.1-SNAPSHOT.jar"
+            "url": "https://github.com/pgjdbc/pgjdbc/releases/download/REL42.6.0/postgresql-42.6.1-SNAPSHOT.jar",
+            "sig": "ZKVGJDM2/KlZY8eN2Et52/ybH4iMCsnmJLO6Nk3i5M1gwlyzGecMT9l/shUxYhzM0BNpPkEE/gS1iVtE4hr74Q=="
           }
         ],
         "manifest": {
